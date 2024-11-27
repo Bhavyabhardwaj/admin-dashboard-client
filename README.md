@@ -10,12 +10,10 @@ This is the frontend of an **Admin Dashboard** application designed to manage us
 ### **2. Role Management**  
 - Define new roles and edit existing ones.  
 - Associate roles with specific permissions (e.g., Read, Write, Delete) or custom attributes.
-- ![image](https://github.com/user-attachments/assets/85675a18-0386-4c69-b011-89d3e64762b6)
-- ![image](https://github.com/user-attachments/assets/c8ee8ef5-ee3b-4902-9682-5c5f3dc54991)
-![image](https://github.com/user-attachments/assets/66e891f2-a435-47c8-a670-be191b647b15)
-![image](https://github.com/user-attachments/assets/64c00c8b-5e35-48cc-9d2e-c685ae756070)
-
-
+- ![image](https://github.com/user-attachments/assets/e00ed51f-7845-4781-ae97-30b9108c4cae)
+-![image](https://github.com/user-attachments/assets/c4eaeca2-24b1-4bc5-9998-021364afb8da)
+-![image](https://github.com/user-attachments/assets/9f67f83b-62b8-42a6-b5ba-6cf7d2f000d7)
+-![image](https://github.com/user-attachments/assets/b4116bbf-c9b0-43f0-b635-7bb16fb8023c)
 
 
 ### **3. Dynamic Permissions**  
